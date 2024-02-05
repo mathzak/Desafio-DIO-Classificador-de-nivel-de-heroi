@@ -1,1 +1,1 @@
-inicio
+console.log("oi");
