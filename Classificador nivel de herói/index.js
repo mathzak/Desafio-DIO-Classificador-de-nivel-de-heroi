@@ -1,10 +1,5 @@
-<<<<<<< HEAD
 // a variavel do nome do herói é declarada
 let nomeHeroi = "SuperNode"
-=======
-//Caso esteja utilizando o node no terminal, substitua o conteúdo da variável nomeHeroi pelo nome desejado estre aspas duplas ex: "superNode"
-let nomeHeroi = prompt("Digite o nome do seu herói:");
->>>>>>> a1856e040e9e3f0d26c3ccf3aebde18251e1d4fe
 
 // As variaveis são declaradas 
 let ExperienciaDoHeroi;
